@@ -1,5 +1,17 @@
-# implementation of card game - Memory
-
+# #################################
+#   Memory
+#   Johannes Welsch
+#   10 October 2021
+#   install and import simplegui to get it working
+#   Or use codeskulptor.org, paste the code there and voila it is working
+#
+#   Took me almost 2 hours to get it working. I failed with lists (arrays)
+#   Then used a dict and it was easy breezy
+#
+#   The game features numbers (overturned cards), you click on them, they
+#   turn over, if they match, they stay open... well that's Memory for you.
+#
+###################################
 import simplegui
 import random
 
